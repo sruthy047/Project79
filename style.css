@@ -1,0 +1,12 @@
+input{
+    margin:10px;
+}
+#sent{
+    margin-top:20px;
+    margin-bottom:20px;
+}
+#sorted{
+  display:none;
+  margin-top:20px;
+  margin-bottom:20px;
+}
